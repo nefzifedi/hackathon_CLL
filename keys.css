@@ -1,0 +1,11 @@
+body {
+    background-color: #87CEEB;
+}
+p.title
+{
+    color:white;
+}
+button.back {
+    color: white;
+    background-color: rgb(4, 4, 231);
+}
